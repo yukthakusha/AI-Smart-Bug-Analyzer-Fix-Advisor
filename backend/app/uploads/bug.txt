@@ -1,0 +1,7 @@
+Application crashes after login.
+
+Stack Trace:
+
+NullPointerException at LoginService.java:55
+
+User clicks Login button and application exits.
